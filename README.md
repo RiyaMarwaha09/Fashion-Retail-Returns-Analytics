@@ -67,7 +67,7 @@ The project combines **predictive modeling in R** with **interactive Tableau das
 
 #### 🔸 Clustering  
 - **Elbow Method (WSS)**  
- ![Elbow Method](assets/ElbowMethod.png)
+ ![Elbow Method](assets/Elbowmethod.png)
   
 
 - **Silhouette Analysis**  
