@@ -120,7 +120,7 @@ This project helps fashion retailers:
 - 📜 [SQL Script](sql/retail_returns_queries.sql)  
 - 📊 [Excel File](excel/returns_data.xlsx)  
 - 📂 [Tableau Workbook](tableau/Retail_Returns_Dashboard.twbx)  
-- 🧾 [Download R Markdown Analysis (PDF)](r/retail_returns_analysis.pdf) 
+- 🧾 [Download R Markdown Analysis (PDF)](r/RetailProject_R.pdf) 
 
 
 ---
