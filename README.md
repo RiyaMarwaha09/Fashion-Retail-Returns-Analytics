@@ -78,7 +78,7 @@ The project combines **predictive modeling in R** with **interactive Tableau das
 
 #### 🔸 Dimensionality Reduction (PCA)  
 - **Scree Plot & Cumulative Variance**  
-  ![PCA Scree Plot](assets/ScreePlot.png)  
+  ![PCA Scree Plot](assets/Screeplot.png)  
 
 - **PCA Biplot (PC1 vs PC2)**  
   ![PCA Biplot](assets/PCABiplot.png)  
