@@ -118,8 +118,8 @@ This project helps fashion retailers:
 
 ## 🚀 Access Project Files  
 - 📜 [SQL Script](sql/retail_returns_queries.sql)  
-- 📊 [Excel File](excel/returns_data.xlsx)  
-- 📂 [Tableau Workbook](tableau/Retail_Returns_Dashboard.twbx)  
+- 📊 [Excel File](excel/fashiondb.xlsx)  
+- 📂 [Tableau Workbook](tableau/Fashion_Boutique_retail.twbx)  
 - 🧾 [Download R Markdown Analysis (PDF)](r/RetailProject_R.pdf) 
 
 
