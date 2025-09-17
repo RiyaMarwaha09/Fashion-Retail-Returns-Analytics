@@ -85,7 +85,7 @@ The project combines **predictive modeling in R** with **interactive Tableau das
 
 #### 🔸 Model Building & Evaluation  
 - **Model Comparison (Accuracy, AUC, Sensitivity, Specificity)**  
-  ![Model Comparison](assets/ModelComparison.png)  
+  ![Model Comparison](assets/Modelcomparison.png)  
 
 - **Random Forest Variable Importance**  
   ![RF Variable Importance](assets/RF_VariableImportance.png)  
