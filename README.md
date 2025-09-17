@@ -78,7 +78,7 @@ The project combines **predictive modeling in R** with **interactive Tableau das
 
 #### 🔸 Dimensionality Reduction (PCA)  
 - **Scree Plot & Cumulative Variance**  
-  ![PCA Scree Plot](assets/ScreePlot.png)  
+  ![PCAScreePlot](assets/ScreePlot.png)  
 
 - **PCA Biplot (PC1 vs PC2)**  
   ![PCA Biplot](assets/PCABiplot.png)  
@@ -88,7 +88,7 @@ The project combines **predictive modeling in R** with **interactive Tableau das
   ![Model Comparison](assets/Modelcomparison.png)  
 
 - **Random Forest Variable Importance**  
-  ![RF Variable Importance](assets/RF_VariableImportance.png)  
+  ![RF Variable Importance](assets/RFVariableImportance.png)  
 
 - **XGBoost Feature Importance**  
   ![XGBoost Feature Importance](assets/XGBoost.png)  
