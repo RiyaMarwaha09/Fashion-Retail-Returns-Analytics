@@ -118,7 +118,7 @@ This project helps fashion retailers:
 
 ## 🚀 Access Project Files  
 - 📜 [SQL Script](sql/retail_returns_queries.sql)  
-- 📊 [Excel File](excel/fashiondb.xlsx)  
+- 📊 [Excel File](excel/fashiondb.csv)  
 - 📂 [Tableau Workbook](assets/Fashion_Boutique_retail.twbx)  
 - 🧾 [Download R Markdown Analysis (PDF)](r/RetailProject_R.pdf) 
 
