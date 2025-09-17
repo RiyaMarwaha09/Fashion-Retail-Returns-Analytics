@@ -1,10 +1,12 @@
-# Fashion-Retail-Returns-Analytics
+S# Fashion-Retail-Returns-Analytics
 Predictive Modeling and Dashboarding for Fashion Retail Returns using SQL, R, Excel, and Tableau
 # 🛍️ Retail Boutique Return Project
 
 ## 📧 Author  
 **Email:** riyamarwaha92@gmail.com  
-**LinkedIn:** [Riya Marwaha](https://www.linkedin.com/in/riya-marwaha/)  
+**LinkedIn:** [Riya Marwaha](https://www.linkedin.com/in/riya-marwaha/) 
+**Portfolio:** [RiyaMarwaha09](https://github.com/RiyaMarwaha09)
+
 
 ---
 
