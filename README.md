@@ -1,6 +1,6 @@
-S# Fashion-Retail-Returns-Analytics
+# Retail Fashion Data Modeling & Visualization
 Predictive Modeling and Dashboarding for Fashion Retail Returns using SQL, R, Excel, and Tableau
-# 🛍️ Retail Boutique Return Project
+# 🛍️ Retail Fashion Data Modeling & Visualization
 
 ## 📧 Author  
 **Email:** riyamarwaha92@gmail.com  
